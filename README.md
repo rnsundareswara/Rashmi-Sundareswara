@@ -1,4 +1,4 @@
-# Rashmi-Sundareswara (https://github.com/user-attachments/files/25399923/README.md)
+# Rashmi-Sundareswara
 
 
 **Research Scientist | Machine Learning & AI Safety**
