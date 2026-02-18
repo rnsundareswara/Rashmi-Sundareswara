@@ -31,21 +31,21 @@ I'm actively building out additional public examples as I transition into AI saf
 
 ## Background
 
-- **PhD in Computer Science** (University of Minnesota) - dissertation on human psychophysics and visual perception
+- **PhD in Computer Science** (University of Minnesota) - dissertation on computational perception exploring human visual bistability and bayes-optimal 3D construction.
 - **17+ years of ML/AI development** in manufacturing, aerospace, and government applications
 - **Expertise**: Computer vision, GANs, deep learning research, systematic testing, experimental design
 - **Publications**: Peer-reviewed research in computer vision, machine learning, and human perception ([Google Scholar](https://scholar.google.com/citations?user=hIH9Gc4AAAAJ))
 
 ## Current Interests
 
-I'm exploring career opportunities in AI safety and effective altruism, with particular interest in:
+I'm exploring career opportunities in AI safety, with particular interest in:
 - Evaluation and red-teaming for dangerous capabilities
 - Understanding how fine-tuning can corrupt safety training
 - Developing robust methods to detect when AI systems are operating outside their knowledge boundaries
 
 ## Contact
 
-I'm happy to discuss my technical work and provide code samples during interviews. For professional inquiries, please reach out through my application materials or LinkedIn.
+I'm happy to discuss my technical work. For professional inquiries, please reach out through email (kollibyle@gmail.com) or LinkedIn.
 
 **Research Profile**: [Google Scholar](https://scholar.google.com/citations?user=hIH9Gc4AAAAJ)
 
