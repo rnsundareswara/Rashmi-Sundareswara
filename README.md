@@ -22,10 +22,9 @@ I'm actively building out additional public examples as I transition into AI saf
 - **Epistemic uncertainty**: How models represent what they know vs. don't know
 - **Gaussian processes and probabilistic ML**: Uncertainty quantification for safety-critical systems
 
-### Personal Projects (to come online soon)
-
-- **[Gaussian Process Regression](./gaussian-process-regression)**: Experimenting with uncertainty quantification using GPR, including hierarchical GPR
-- **[Face Detection](./face-detection)**: Real-time face detection using OpenCV (personal project for an interactive toy for my daughter)
+I'm actively building out additional public examples as I transition into AI 
+safety research, focusing on mechanistic interpretability, systematic evaluation 
+frameworks, and uncertainty quantification.
 
 ## Background
 
