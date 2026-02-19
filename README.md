@@ -24,7 +24,7 @@ I'm actively building out additional public examples as I transition into AI saf
 - **Epistemic uncertainty**: How models represent what they know vs. don't know
 - **Gaussian processes and probabilistic ML**: Uncertainty quantification for safety-critical systems
 
-### Recent Projects
+### Personal Projects
 
 - **[Gaussian Process Regression](./gaussian-process-regression)**: Tutorial on uncertainty quantification using atmospheric CO₂ data
 - Currently implementing a hierarchical GPR.
