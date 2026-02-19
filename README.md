@@ -25,7 +25,6 @@ I'm actively building out additional public examples as I transition into AI saf
 ### Personal Projects (to come soon)
 
 - **[Gaussian Process Regression](./gaussian-process-regression)**: Experimenting with uncertainty quantification using GPR, including hierarchical GPR
-- Currently implementing a hierarchical GPR.
 - **[Face Detection](./face-detection)**: Real-time face detection using OpenCV (personal project for an interactive toy for my daughter)
 
 ## Background
