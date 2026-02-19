@@ -19,7 +19,6 @@ While most of my work remains proprietary, I have contributed to public reposito
 I'm actively building out additional public examples as I transition into AI safety research, focusing on:
 
 - **Mechanistic interpretability**: Understanding what's happening inside neural networks
-- **Systematic evaluation frameworks**: Rigorous testing methodologies for AI safety
 - **Epistemic uncertainty**: How models represent what they know vs. don't know
 - **Gaussian processes and probabilistic ML**: Uncertainty quantification for safety-critical systems
 
