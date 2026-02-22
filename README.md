@@ -1,7 +1,7 @@
 # Rashmi-Sundareswara
 
 
-**Research Scientist | Machine Learning & AI Safety**
+**Research Scientist | Machine Learning **
 
 I'm a Research Scientist with 17+ years of experience designing, developing, and prototyping ML systems for government (DARPA / IARPA) applications, vehicle (GM) and aerospace (Boeing) manufacturing and fault prediction and quantum applications.
 
