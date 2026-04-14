@@ -2,7 +2,7 @@
 
 **Machine Learning Scientist | Applied AI Systems | Generative Modeling**
 
-Machine Learning Scientist with 17+ years of experience building and deploying ML systems across aerospace, manufacturing, and government-funded research (DARPA/IARPA). My work has focused on developing robust, real-world AI systems, including anomaly detection, computer vision, and generative models.
+Machine Learning Scientist with 17+ years of experience designing, building and transitioning ML systems across aerospace, manufacturing, and government-funded research (DARPA/IARPA). My work has focused on developing robust, real-world AI systems, including anomaly detection, computer vision, and generative models.
 
 ---
 
@@ -14,10 +14,10 @@ Most of my professional work has been conducted in proprietary environments (HRL
 
 ## 🔬 Current Focus
 
-I am actively working on generative modeling approaches for structured data, with a focus on:
+I am actively working on generative modeling approaches with a focus on:
 
 - Representation disentanglement (e.g., separating structure and appearance)
-- Training stability and failure modes in GAN-based systems
+- Mechanistic Interpretability
 - Translating research ideas into working implementations from first principles
 
 This work builds on prior industry experience with generative models, while remaining fully independent of proprietary codebases.
@@ -29,7 +29,7 @@ This work builds on prior industry experience with generative models, while rema
 Across my career, I have:
 
 - Built ML systems for **fault prediction and anomaly detection** in aerospace and automotive applications  
-- Designed and deployed **computer vision systems** for manufacturing quality control  
+- Designed and transitioned **computer vision systems** for manufacturing quality control  
 - Developed **evaluation and benchmarking frameworks** for classical and quantum ML systems (DARPA)  
 - Worked extensively on **model reliability**, including data drift detection and system validation  
 
