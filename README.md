@@ -16,15 +16,8 @@ While most of my work remains proprietary, I have contributed to public reposito
 **DARPA Quantum Benchmarking (QB-GSEE)**: Designed and developed visualization for a structured framework, including the UI for evaluating the performance of both classical and quantum solvers on diverse GSEE problem instances using Machine Learning.  learning components for quantum benchmarking as part of DARPA's Quantum Benchmarking initiative.
 - Repository: [qb-gsee-benchmark/BubbleML/UI](https://github.com/isi-usc-edu/qb-gsee-benchmark/tree/main/BubbleML/UI)
 
-I'm actively building out additional public examples as I transition into AI safety research, focusing on:
+I'm actively building out additional public examples as I transition more into Mechanistic Interpretability
 
-- **Mechanistic interpretability**: Understanding what's happening inside neural networks
-- **Epistemic uncertainty**: How models represent what they know vs. don't know
-- **Gaussian processes and probabilistic ML**: Uncertainty quantification for safety-critical systems
-
-I'm actively building out additional public examples as I transition into AI 
-safety research, focusing on mechanistic interpretability, systematic evaluation 
-frameworks, and uncertainty quantification.
 
 ## Background
 
@@ -33,12 +26,7 @@ frameworks, and uncertainty quantification.
 - **Expertise**: Computer vision, GANs, deep learning research, systematic testing, experimental design
 - **Publications**: Peer-reviewed research in computer vision, machine learning, and human perception ([Google Scholar](https://scholar.google.com/citations?user=hIH9Gc4AAAAJ))
 
-## Current Interests
 
-I'm exploring career opportunities in AI safety, with particular interest in:
-- Evaluation and red-teaming for dangerous capabilities
-- Understanding how fine-tuning can corrupt safety training
-- Developing robust methods to detect when AI systems are operating outside their knowledge boundaries
 
 ## Contact
 
