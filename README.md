@@ -57,6 +57,6 @@ Designed and developed visualization components and UI for evaluating classical 
 
 - Email: kollibyle@gmail.com  
 - Google Scholar: https://scholar.google.com/citations?user=hIH9Gc4AAAAJ  
-- LinkedIn: [add link]
+- LinkedIn: https://www.linkedin.com/in/rashmi-sundareswara-4501842/
 
 ---
