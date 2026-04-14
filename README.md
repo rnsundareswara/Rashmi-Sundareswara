@@ -16,7 +16,7 @@ While most of my work remains proprietary, I have contributed to public reposito
 **DARPA Quantum Benchmarking (QB-GSEE)**: Designed and developed visualization for a structured framework, including the UI for evaluating the performance of both classical and quantum solvers on diverse GSEE problem instances using Machine Learning.  learning components for quantum benchmarking as part of DARPA's Quantum Benchmarking initiative.
 - Repository: [qb-gsee-benchmark/BubbleML/UI](https://github.com/isi-usc-edu/qb-gsee-benchmark/tree/main/BubbleML/UI)
 
-I'm actively building out additional public examples as I transition more into Mechanistic Interpretability
+I'm actively building out additional public examples as I dig into Mechanistic Interpretability.
 
 
 ## Background
@@ -36,4 +36,3 @@ I'm happy to discuss my technical work. For professional inquiries, please reach
 
 ---
 
-*Note: The repositories and contributions here represent publicly shareable work from government-funded research and learning projects as I transition into AI safety research. They don't reflect the full scope of my professional work, the majority of which remains proprietary.*
