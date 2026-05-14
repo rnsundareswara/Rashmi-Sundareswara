@@ -1,6 +1,6 @@
 # Rashmi Sundareswara
 
-**Machine Learning Scientist | Applied AI Systems | Generative Modeling**
+**Machine Learning Scientist | Applied AI Systems | Generative Modeling | AI Safety**
 
 Machine Learning Scientist with 17+ years of experience designing, building, and transitioning ML systems from research prototypes to real-world applications across aerospace, manufacturing, and government-funded research (DARPA/IARPA). My work has focused on developing robust, real-world AI systems, including anomaly detection, computer vision, and generative models.
 
