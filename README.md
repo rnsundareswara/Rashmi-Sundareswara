@@ -10,7 +10,7 @@ I am particularly interested in building robust, interpretable ML systems that p
 
 ## About My GitHub
 
-Most of my professional work has been conducted in proprietary environments (HRL Laboratories, DARPA/IARPA programs), where code cannot be publicly shared. This repository is intended to provide a window into my current hands-on work and technical approach outside those constraints.
+While most of my professional work has been conducted in proprietary environments (HRL Laboratories, DARPA/IARPA programs), where code cannot be publicly shared, I have included links where this is not the case and my current hands-on work on mechanistic interpretability and technical approach outside those constraints.
 
 ---
 
