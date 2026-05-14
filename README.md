@@ -38,6 +38,7 @@ Across my career, I have:
 ## 🌐 Public Contributions
 
 **Do LLMs translate like Humans?  A small pilot study**
+I loved reading the modern but Spanish classic, "Love in the time of Cholera" by Gabriel Garcia Marquez - one of the great novels of the 20th century.  The English translation was done by Edith Grossman.
 
 
 **DARPA Quantum Benchmarking (QB-GSEE)**  
