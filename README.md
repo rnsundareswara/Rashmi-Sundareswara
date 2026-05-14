@@ -37,6 +37,8 @@ Across my career, I have:
 
 ## 🌐 Public Contributions
 
+** Comparing Human Translation of classic literature to LLM's translation capability **
+
 **DARPA Quantum Benchmarking (QB-GSEE)**  
 Designed and developed visualization components and UI for evaluating classical and quantum solvers on Ground State Energy Estimation (GSEE) problems.
 
