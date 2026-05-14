@@ -20,10 +20,8 @@ I am actively working on generative modeling approaches with a focus on:
 
 - Mechanistic interpretability of learned representations in generative models
 - Representation disentanglement (e.g., separating structure and appearance)
-- Translating research ideas into working implementations from first principles
 - Diagnosing training instability and failure modes in generative models
 
-This work builds on prior industry experience with generative models, while remaining fully independent of proprietary codebases.
 
 ---
 
@@ -31,7 +29,7 @@ This work builds on prior industry experience with generative models, while rema
 
 Across my career, I have:
 
-- Built ML systems for **fault prediction and anomaly detection** in aerospace and automotive applications  
+- Built ML systems for **fault prediction and anomaly detection** for aerospace and automotive applications.  
 - Designed and transitioned **computer vision systems from research prototypes to operational workflows** for manufacturing quality control  
 - Developed **evaluation and benchmarking frameworks** for classical and quantum ML systems (DARPA)  
 - Worked extensively on **model reliability**, including data drift detection and system validation  
