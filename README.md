@@ -18,8 +18,8 @@ While most of my professional work has been conducted in proprietary environment
 
 I am actively working on generative modeling approaches with a focus on:
 
-- Representation disentanglement (e.g., separating structure and appearance)
 - Mechanistic interpretability of learned representations in generative models
+- Representation disentanglement (e.g., separating structure and appearance)
 - Translating research ideas into working implementations from first principles
 - Diagnosing training instability and failure modes in generative models
 
