@@ -2,9 +2,9 @@
 
 **Machine Learning Scientist | Applied AI Systems | Generative Modeling | AI Safety**
 
-Machine Learning Scientist with 17+ years of experience designing, building, and transitioning ML systems from research prototypes to real-world applications across aerospace, manufacturing, and government-funded research (DARPA/IARPA). My work has focused on developing robust, real-world AI systems, including anomaly detection, computer vision, and generative models.
+Machine Learning Scientist with 17+ years of experience designing, building, and transitioning ML systems from research prototypes to real-world applications across government-funded research (DARPA/IARPA), aerospace, manufacturing. My work has focused on developing robust, real-world AI systems, including anomaly detection, computer vision, and generative models.
 
-I am particularly interested in building robust, interpretable ML systems that perform reliably in real-world environments.
+I am particularly interested in building robust, interpretable ML systems that perform reliably in real-world environments.  In that vein, I am excited to delve into Mechansitic Interpretability in the AI safety domain.  It is imperiative that we understand and make transparent the mechanisms behind predictions from large AI systems.
 
 ---
 
