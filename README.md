@@ -29,10 +29,9 @@ I am actively working on generative modeling approaches with a focus on:
 
 Across my career, I have:
 
-- Built ML systems for **fault prediction and anomaly detection** for aerospace and automotive applications.  
+- Built ML systems for **fault prediction, anomaly detection and data drift** for aerospace and automotive applications.  
 - Designed and transitioned **computer vision systems from research prototypes to operational workflows** for manufacturing quality control  
-- Developed **evaluation and benchmarking frameworks** for classical and quantum ML systems (DARPA)  
-- Worked extensively on **model reliability**, including data drift detection and system validation  
+- Developed **evaluation and benchmarking frameworks** for classical and quantum ML systems (DARPA)
 
 ---
 
