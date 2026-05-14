@@ -37,7 +37,7 @@ Across my career, I have:
 
 ## 🌐 Public Contributions
 
-**Do LLMs translation like Humans? **
+**Do LLMs translate like Humans?  A small pilot study**
 
 
 **DARPA Quantum Benchmarking (QB-GSEE)**  
