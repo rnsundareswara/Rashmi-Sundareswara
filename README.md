@@ -37,8 +37,8 @@ Across my career, I have:
 
 ## 🌐 Public Contributions
 
-**Do LLMs translate like Humans?  A small pilot study**
-I loved reading the modern but Spanish classic, "Love in the time of Cholera" by Gabriel Garcia Marquez - one of the great novels of the 20th century.  The English translation was done by Edith Grossman.
+**Do LLMs translate like Humans?  A small pilot study **
+I loved reading the modern but Spanish classic, "Love in the time of Cholera" by Gabriel Garcia Marquez - one of the great novels of the 20th century.  The English translation was done by Edith Grossman, who describes translating previous literature in one language into another as, "Translating is always a struggle, regardless of the author you're translating. You have to hear the original voice in a profound way, and then find the voice in English that best reflects that original. It's always difficult, challenging and immensely enjoyable.".  I found myself re-reading passages that took my breath away and wondered how a translation could have this effect and if I would the original Spanish text would have had the same effect or greater.  While that is a complex human phenomena to uncover, I also wondered if LLMs can translate that beautfiully.  So, I decided on small pilot study.  I took one of my fac
 
 
 **DARPA Quantum Benchmarking (QB-GSEE)**  
