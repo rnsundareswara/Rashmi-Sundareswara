@@ -32,6 +32,7 @@ Across my career, I have:
 - Built ML systems for **fault prediction, anomaly detection and data drift** for aerospace and automotive applications.  
 - Designed and transitioned **computer vision systems from research prototypes to operational workflows** for manufacturing quality control  
 - Developed **evaluation and benchmarking frameworks** for classical and quantum ML systems (DARPA)
+- Very interested in mechanistic interpretability in the AI safety area and have built a small project (see below)
 
 ---
 
