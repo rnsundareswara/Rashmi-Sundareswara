@@ -2,7 +2,7 @@
 
 **Machine Learning Scientist | AI Safety | Mechanistic Interpretability | Generative Modeling | Evaluation & Benchmarking**
 
-Machine Learning Scientist with 18 years of experience designing, building, and transitioning ML systems from research prototypes to real-world applications across government-funded research (DARPA/IARPA), aerospace, manufacturing. My work has focused on developing robust, real-world AI systems, including anomaly detection, computer vision, and generative models.
+Machine Learning Scientist with 17+ years of experience designing, building, and transitioning ML systems from research prototypes to real-world applications across government-funded research (DARPA/IARPA), aerospace, manufacturing. My work has focused on developing robust, real-world AI systems, including anomaly detection, computer vision, and generative models.
 
 I am particularly interested in building robust, interpretable ML systems that perform reliably in real-world environments.  In that vein, I am actively pursuing mechanistic interpretability research in the AI safety domain — because understanding the internal mechanisms behind large AI systems is not just interesting, it is imperative.
 
@@ -57,7 +57,7 @@ Designed and developed visualization components and UI for evaluating classical 
 
 - **PhD in Computer Science**, University of Minnesota  
   - Dissertation: Computational perception and probabilistic modeling of human visual bistability  
-- **17+ years of ML/AI development** across research and production environments  
+- **18 years of ML/AI development** across research and production environments  
 - **Expertise**: Computer vision, GANs, deep learning, experimental design, system evaluation  
 
 ---
