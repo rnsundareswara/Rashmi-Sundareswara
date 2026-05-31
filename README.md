@@ -16,10 +16,12 @@ While most of my professional work has been conducted in proprietary environment
 
 ## 🔬 Current Focus
 
-I am actively working on generative modeling approaches with a focus on:
-
-- Mechanistic interpretability of learned representations in generative models
-- Representation disentanglement (e.g., separating structure and appearance)
+I am actively working on mechanistic interpretability of transformer 
+models, with a focus on:
+- Probing activation geometry and layer-wise representational structure
+- Token-level analysis and discriminating axis projections
+- Representation disentanglement in generative models (e.g., separating 
+  structure and appearance)
 - Diagnosing training instability and failure modes in generative models
 
 
