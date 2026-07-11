@@ -33,7 +33,10 @@ Across my career, I have:
 
 - Built ML systems for **fault prediction, anomaly detection and data drift** for aerospace and automotive applications.  
 - Designed and transitioned **computer vision systems from research prototypes to operational workflows** for manufacturing quality control  
-- Developed **evaluation and benchmarking frameworks** for classical and quantum ground state energy estimation solvers in quantum chemsitry (DARPA)
+- Developed **evaluation and benchmarking frameworks** for classical and quantum ground state energy estimation solvers in quantum chemsitry: **DARPA Quantum Benchmarking (QB-GSEE)**  
+Designed and developed visualization components and UI for evaluating classical and quantum solvers on Ground State Energy Estimation (GSEE) problems.
+
+- Repository: https://github.com/isi-usc-edu/qb-gsee-benchmark/tree/main/BubbleML/UI
 - Conducted a mechanistic interpretability study probing GPT-2 activation geometry across 11 layers to compare LLM vs. human expert translation — using cosine similarity, KS statistics, KDE overlap, and discriminating axis projections. Consistent cross-method finding: LLM translations cluster together and away from the human expert across all layers (see Public Contributions below)
 
 ---
@@ -44,12 +47,6 @@ Across my career, I have:
 
 I loved reading the modern but Spanish classic, "Love in the time of Cholera" by Gabriel Garcia Marquez - one of the great novels of the 20th century.  The English translation was done by Edith Grossman, who describes translating previous literature in one language into another as, "Translating is always a struggle, regardless of the author you're translating. You have to hear the original voice in a profound way, and then find the voice in English that best reflects that original. It's always difficult, challenging and immensely enjoyable." [[*The Guardian*, April 26, 2014](https://www.theguardian.com/books/2014/apr/26/gabriel-garcia-marquez-edith-grossman-translator-interview)] I found myself re-reading passages that took my breath away and wondered how a translation could have this effect and if I would the original Spanish text would have had the same effect or greater.  While that is a complex human phenomena to uncover, I also wondered if LLMs can translate that beautifully.  So, I decided on a small pilot study.  To read more, see here:  https://github.com/rnsundareswara/Marquez_interp/tree/main
 
-
-
-**DARPA Quantum Benchmarking (QB-GSEE)**  
-Designed and developed visualization components and UI for evaluating classical and quantum solvers on Ground State Energy Estimation (GSEE) problems.
-
-- Repository: https://github.com/isi-usc-edu/qb-gsee-benchmark/tree/main/BubbleML/UI
 
 ---
 
