@@ -33,10 +33,9 @@ Across my career, I have:
 
 - Built ML systems for **fault prediction, anomaly detection and data drift** for aerospace and automotive applications.  
 - Designed and transitioned **computer vision systems from research prototypes to operational workflows** for manufacturing quality control  
-- Developed **evaluation and benchmarking frameworks** for classical and quantum ground state energy estimation solvers in quantum chemsitry: **DARPA Quantum Benchmarking (QB-GSEE)**  
-Designed and developed visualization components and UI for evaluating classical and quantum solvers on Ground State Energy Estimation (GSEE) problems.
+- Developed **evaluation and benchmarking frameworks** for evaluating classical and quantum ground state energy estimation solvers in quantum chemsitry: **DARPA Quantum Benchmarking (QB-GSEE)**  
+ Repository: https://github.com/isi-usc-edu/qb-gsee-benchmark/tree/main/BubbleML/UI
 
-- Repository: https://github.com/isi-usc-edu/qb-gsee-benchmark/tree/main/BubbleML/UI
 - Conducted a mechanistic interpretability study probing GPT-2 activation geometry across 11 layers to compare LLM vs. human expert translation — using cosine similarity, KS statistics, KDE overlap, and discriminating axis projections. Consistent cross-method finding: LLM translations cluster together and away from the human expert across all layers (see Public Contributions below)
 
 ---
