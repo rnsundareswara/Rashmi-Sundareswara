@@ -1,8 +1,8 @@
 # Rashmi Sundareswara
 
-**Machine Learning Scientist | AI Safety | Mechanistic Interpretability | Generative Modeling |**
+**Machine Learning Scientist and Program Lead | AI Safety | Mechanistic Interpretability | Generative Modeling |**
 
-Machine Learning Scientist with 17+ years of experience designing, building, and transitioning ML systems from research prototypes to real-world applications across government-funded research (DARPA/IARPA), aerospace, manufacturing. My work has focused on developing robust, real-world AI systems, including anomaly detection, computer vision, and generative models.
+Machine Learning Scientist with 17+ years of experience designing, building, and transitioning ML systems from research prototypes to real-world applications across government-funded research (DARPA/IARPA), aerospace, manufacturing. My work has focused on developing robust, real-world AI systems, including anomaly detection, computer vision, and generative models.  On several GM/Boeing programs, I also owned program execution end-to-end — budget, deliverables, and stakeholder communication — alongside the technical work.
 
 I am particularly interested in building robust, interpretable ML systems that perform reliably in real-world environments.  In that vein, I am actively pursuing mechanistic interpretability research in the AI safety domain — because understanding the internal mechanisms behind large AI systems is not just interesting, it is imperative.
 
